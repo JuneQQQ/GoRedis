@@ -1,0 +1,37 @@
+[INFO][server.go:36] 2023/04/10 16:51:54 start listen
+[INFO][server.go:64] 2023/04/10 16:52:12 accepted link,RemoteAddr  127.0.0.1:65210
+[INFO][echo.go:53] 2023/04/10 16:52:40 Connection Closed
+[INFO][server.go:64] 2023/04/10 16:53:37 accepted link,RemoteAddr  [::1]:65215
+[INFO][server.go:64] 2023/04/10 16:53:52 accepted link,RemoteAddr  [::1]:65218
+[INFO][server.go:64] 2023/04/10 16:54:15 accepted link,RemoteAddr  127.0.0.1:65219
+[INFO][echo.go:53] 2023/04/10 16:54:27 Connection Closed
+[INFO][server.go:46] 2023/04/10 16:56:28 shutting down...
+[ERROR][server.go:61] 2023/04/10 16:56:28 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][echo.go:67] 2023/04/10 16:56:28 handler shutting down
+[ERROR][echo.go:56] 2023/04/10 16:56:28 read error,msg: read tcp [::1]:6379->[::1]:65215: use of closed network connection
+[ERROR][echo.go:56] 2023/04/10 16:56:28 read error,msg: read tcp [::1]:6379->[::1]:65218: use of closed network connection
+[INFO][echo.go:67] 2023/04/10 16:56:28 handler shutting down
+[INFO][server.go:36] 2023/04/10 16:56:28 start listen
+[INFO][server.go:64] 2023/04/10 16:56:32 accepted link,RemoteAddr  [::1]:65226
+[INFO][server.go:64] 2023/04/10 16:56:40 accepted link,RemoteAddr  127.0.0.1:65229
+[INFO][server.go:46] 2023/04/10 16:57:05 shutting down...
+[ERROR][server.go:61] 2023/04/10 16:57:05 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][echo.go:73] 2023/04/10 16:57:05 handler shutting down
+[ERROR][echo.go:58] 2023/04/10 16:57:05 read error,msg: read tcp [::1]:6379->[::1]:65226: use of closed network connection
+[ERROR][echo.go:58] 2023/04/10 16:57:05 read error,msg: read tcp 127.0.0.1:6379->127.0.0.1:65229: use of closed network connection
+[INFO][echo.go:73] 2023/04/10 16:57:05 handler shutting down
+[INFO][server.go:36] 2023/04/10 16:57:05 start listen
+[INFO][server.go:64] 2023/04/10 16:57:08 accepted link,RemoteAddr  [::1]:65232
+[INFO][server.go:64] 2023/04/10 16:57:13 accepted link,RemoteAddr  127.0.0.1:65233
+[INFO][echo.go:74] 2023/04/10 16:57:15 handler shutting down
+[ERROR][echo.go:58] 2023/04/10 16:57:15 read error,msg: read tcp [::1]:6379->[::1]:65232: use of closed network connection
+[ERROR][echo.go:58] 2023/04/10 16:57:15 read error,msg: read tcp 127.0.0.1:6379->127.0.0.1:65233: use of closed network connection
+[INFO][server.go:46] 2023/04/10 17:01:02 shutting down...
+[ERROR][server.go:61] 2023/04/10 17:01:02 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][echo.go:74] 2023/04/10 17:01:02 handler shutting down
+[INFO][server.go:36] 2023/04/10 17:14:08 start listen
+[INFO][server.go:64] 2023/04/10 17:14:16 accepted link,RemoteAddr  127.0.0.1:65346
+[INFO][echo.go:57] 2023/04/10 17:14:19 Connection Closed
+[INFO][server.go:46] 2023/04/10 17:15:12 shutting down...
+[ERROR][server.go:61] 2023/04/10 17:15:12 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][echo.go:72] 2023/04/10 17:15:12 handler shutting down

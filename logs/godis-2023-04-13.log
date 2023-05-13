@@ -1,0 +1,1049 @@
+[INFO][aof.go:118] 2023/04/13 10:12:00 data recover start
+[DEBUG][map_db.go:53] 2023/04/13 10:12:00 cmdArgs len:3
+[DEBUG][map_db.go:54] 2023/04/13 10:12:00 arity:3
+[INFO][aof.go:161] 2023/04/13 10:12:00 data recover completed
+[INFO][server.go:36] 2023/04/13 10:12:00 start listen
+[INFO][server.go:46] 2023/04/13 10:12:03 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:12:03 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:109] 2023/04/13 10:12:03 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:25:54 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:25:54 data recover start
+[DEBUG][map_db.go:53] 2023/04/13 10:25:54 cmdArgs len:3
+[DEBUG][map_db.go:54] 2023/04/13 10:25:54 arity:3
+[INFO][aof.go:161] 2023/04/13 10:25:55 data recover completed
+[INFO][server.go:36] 2023/04/13 10:25:55 start listen
+[INFO][handler.go:40] 2023/04/13 10:26:16 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:26:16 data recover start
+[INFO][server.go:46] 2023/04/13 10:26:20 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:26:20 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:26:20 handler shutting down...
+[INFO][aof.go:161] 2023/04/13 10:26:20 data recover completed
+[INFO][handler.go:40] 2023/04/13 10:26:24 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:26:24 data recover start
+[INFO][aof.go:161] 2023/04/13 10:26:24 data recover completed
+[INFO][server.go:36] 2023/04/13 10:26:24 start listen
+[INFO][server.go:46] 2023/04/13 10:26:39 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:26:39 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:26:39 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:26:40 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:26:40 data recover start
+[INFO][aof.go:161] 2023/04/13 10:26:40 data recover completed
+[INFO][server.go:36] 2023/04/13 10:26:40 start listen
+[INFO][server.go:46] 2023/04/13 10:26:43 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:26:43 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:26:43 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:26:52 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:26:52 data recover start
+[INFO][aof.go:161] 2023/04/13 10:26:53 data recover completed
+[INFO][server.go:36] 2023/04/13 10:26:53 start listen
+[INFO][handler.go:40] 2023/04/13 10:27:02 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:27:02 data recover start
+[INFO][aof.go:161] 2023/04/13 10:27:02 data recover completed
+[INFO][handler.go:40] 2023/04/13 10:27:18 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:27:18 data recover start
+[INFO][aof.go:161] 2023/04/13 10:27:19 data recover completed
+[INFO][handler.go:40] 2023/04/13 10:27:20 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:27:20 data recover start
+[INFO][aof.go:161] 2023/04/13 10:27:20 data recover completed
+[INFO][server.go:46] 2023/04/13 10:27:52 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:27:52 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:27:52 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:28:50 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:28:50 data recover start
+[INFO][aof.go:161] 2023/04/13 10:28:50 data recover completed
+[INFO][server.go:36] 2023/04/13 10:28:50 start listen
+[INFO][handler.go:40] 2023/04/13 10:29:01 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:29:01 data recover start
+[INFO][aof.go:161] 2023/04/13 10:29:01 data recover completed
+[INFO][handler.go:40] 2023/04/13 10:29:22 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:29:26 data recover start
+[INFO][aof.go:161] 2023/04/13 10:29:26 data recover completed
+[INFO][handler.go:40] 2023/04/13 10:30:27 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:30:27 data recover start
+[INFO][aof.go:161] 2023/04/13 10:30:27 data recover completed
+[ERROR][main.go:45] 2023/04/13 10:30:27 listen tcp 0.0.0.0:6379: bind: address already in use
+[INFO][server.go:46] 2023/04/13 10:30:41 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:30:41 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:30:41 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:30:48 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:30:48 data recover start
+[INFO][aof.go:161] 2023/04/13 10:30:48 data recover completed
+[INFO][server.go:36] 2023/04/13 10:30:48 start listen
+[INFO][handler.go:40] 2023/04/13 10:31:06 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:31:06 data recover start
+[INFO][aof.go:161] 2023/04/13 10:31:06 data recover completed
+[INFO][server.go:36] 2023/04/13 10:31:06 start listen
+[INFO][server.go:46] 2023/04/13 10:33:27 shutting down...
+[INFO][server.go:46] 2023/04/13 10:33:27 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:33:27 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[ERROR][server.go:61] 2023/04/13 10:33:27 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:33:27 handler shutting down...
+[INFO][handler.go:111] 2023/04/13 10:33:27 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:33:30 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:33:30 data recover start
+[INFO][aof.go:161] 2023/04/13 10:33:30 data recover completed
+[INFO][server.go:36] 2023/04/13 10:33:30 start listen
+[INFO][server.go:46] 2023/04/13 10:34:46 shutting down...
+[ERROR][server.go:61] 2023/04/13 10:34:46 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:34:46 handler shutting down...
+[INFO][handler.go:111] 2023/04/13 10:34:46 handler shutting down...
+[INFO][main.go:49] 2023/04/13 10:34:46 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:34:47 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:34:47 data recover start
+[INFO][aof.go:161] 2023/04/13 10:34:48 data recover completed
+[INFO][server.go:38] 2023/04/13 10:34:48 start listen
+[INFO][server.go:41] 2023/04/13 10:34:48 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:35:05 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:35:05 data recover start
+[INFO][aof.go:161] 2023/04/13 10:35:05 data recover completed
+[INFO][server.go:38] 2023/04/13 10:35:05 start listen
+[INFO][server.go:41] 2023/04/13 10:35:05 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:35:06 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:35:09 data recover start
+[INFO][aof.go:161] 2023/04/13 10:35:11 data recover completed
+[INFO][server.go:38] 2023/04/13 10:35:13 start listen
+[INFO][server.go:41] 2023/04/13 10:35:13 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:35:15 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:35:15 data recover start
+[INFO][aof.go:161] 2023/04/13 10:35:17 data recover completed
+[INFO][server.go:38] 2023/04/13 10:35:17 start listen
+[INFO][server.go:41] 2023/04/13 10:35:17 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:36:17 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:36:17 data recover start
+[INFO][aof.go:161] 2023/04/13 10:36:17 data recover completed
+[INFO][server.go:38] 2023/04/13 10:36:17 start listen
+[INFO][server.go:41] 2023/04/13 10:36:17 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:36:28 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:36:28 data recover start
+[INFO][aof.go:161] 2023/04/13 10:36:28 data recover completed
+[INFO][server.go:38] 2023/04/13 10:36:28 start listen
+[INFO][server.go:41] 2023/04/13 10:36:28 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:36:37 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:36:37 data recover start
+[INFO][aof.go:161] 2023/04/13 10:36:37 data recover completed
+[INFO][server.go:38] 2023/04/13 10:36:37 start listen
+[INFO][server.go:41] 2023/04/13 10:36:37 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:36:39 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:36:39 data recover start
+[INFO][aof.go:161] 2023/04/13 10:36:40 data recover completed
+[ERROR][main.go:45] 2023/04/13 10:36:57 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][handler.go:40] 2023/04/13 10:36:59 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:36:59 data recover start
+[INFO][aof.go:161] 2023/04/13 10:36:59 data recover completed
+[INFO][server.go:38] 2023/04/13 10:37:04 start listen
+[INFO][server.go:41] 2023/04/13 10:37:04 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:37:09 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:37:09 data recover start
+[INFO][aof.go:161] 2023/04/13 10:37:09 data recover completed
+[INFO][server.go:38] 2023/04/13 10:37:15 start listen
+[INFO][server.go:41] 2023/04/13 10:37:29 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:38:05 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:38:05 data recover start
+[INFO][aof.go:161] 2023/04/13 10:38:05 data recover completed
+[INFO][server.go:38] 2023/04/13 10:38:05 server started in 0.0.0.0:6380
+[INFO][server.go:48] 2023/04/13 10:38:44 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:38:44 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:38:44 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:38:47 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:38:47 data recover start
+[INFO][aof.go:161] 2023/04/13 10:38:47 data recover completed
+[INFO][server.go:38] 2023/04/13 10:38:47 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:38:53 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:38:53 data recover start
+[INFO][aof.go:161] 2023/04/13 10:38:53 data recover completed
+[INFO][server.go:38] 2023/04/13 10:38:56 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:40:05 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:40:05 data recover start
+[INFO][aof.go:161] 2023/04/13 10:40:05 data recover completed
+[INFO][server.go:38] 2023/04/13 10:40:05 server started in 0.0.0.0:6380
+[INFO][server.go:48] 2023/04/13 10:42:59 shutting down...
+[INFO][handler.go:111] 2023/04/13 10:42:59 handler shutting down...
+[ERROR][server.go:63] 2023/04/13 10:42:59 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:42:59 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:44:04 staring through cluster
+[INFO][handler.go:40] 2023/04/13 10:44:04 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:44:04 data recover start
+[INFO][handler.go:40] 2023/04/13 10:44:05 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:44:05 data recover start
+[INFO][aof.go:161] 2023/04/13 10:44:06 data recover completed
+[INFO][server.go:38] 2023/04/13 10:44:06 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:44:30 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:44:30 data recover start
+[INFO][aof.go:161] 2023/04/13 10:44:30 data recover completed
+[INFO][server.go:38] 2023/04/13 10:44:30 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:44:37 accepted link,RemoteAddr  127.0.0.1:58214
+[ERROR][handler.go:91] 2023/04/13 10:44:47 empty payload
+[ERROR][handler.go:91] 2023/04/13 10:44:57 empty payload
+[ERROR][handler.go:91] 2023/04/13 10:44:58 empty payload
+[ERROR][handler.go:91] 2023/04/13 10:44:58 empty payload
+[ERROR][handler.go:91] 2023/04/13 10:44:58 empty payload
+[INFO][server.go:48] 2023/04/13 10:45:19 shutting down...
+[INFO][server.go:48] 2023/04/13 10:45:19 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:45:19 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[ERROR][server.go:63] 2023/04/13 10:45:19 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:45:19 handler shutting down...
+[INFO][handler.go:111] 2023/04/13 10:45:19 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:45:19 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:45:19 connection closed: 127.0.0.1:58214
+[INFO][handler.go:111] 2023/04/13 10:45:19 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:45:21 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:45:21 data recover start
+[INFO][aof.go:161] 2023/04/13 10:45:21 data recover completed
+[INFO][server.go:38] 2023/04/13 10:45:21 server started in 0.0.0.0:6379
+[INFO][handler.go:40] 2023/04/13 10:45:32 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:45:32 data recover start
+[INFO][aof.go:161] 2023/04/13 10:45:32 data recover completed
+[INFO][server.go:38] 2023/04/13 10:45:32 server started in 0.0.0.0:6380
+[INFO][server.go:66] 2023/04/13 10:45:40 accepted link,RemoteAddr  127.0.0.1:58243
+[ERROR][handler.go:91] 2023/04/13 10:45:45 empty payload
+[ERROR][handler.go:91] 2023/04/13 10:45:46 empty payload
+[ERROR][handler.go:91] 2023/04/13 10:45:47 empty payload
+[INFO][server.go:48] 2023/04/13 10:46:01 shutting down...
+[INFO][server.go:48] 2023/04/13 10:46:01 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:46:01 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[ERROR][server.go:63] 2023/04/13 10:46:01 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:46:01 handler shutting down...
+[INFO][handler.go:111] 2023/04/13 10:46:01 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:46:01 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:46:01 connection closed: 127.0.0.1:58243
+[INFO][handler.go:111] 2023/04/13 10:46:01 handler shutting down...
+[INFO][handler.go:40] 2023/04/13 10:46:04 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:46:04 data recover start
+[INFO][aof.go:161] 2023/04/13 10:46:04 data recover completed
+[INFO][server.go:38] 2023/04/13 10:46:04 server started in 0.0.0.0:6380
+[INFO][handler.go:40] 2023/04/13 10:46:16 staring through cluster
+[INFO][aof.go:118] 2023/04/13 10:46:16 data recover start
+[INFO][aof.go:161] 2023/04/13 10:46:16 data recover completed
+[INFO][server.go:38] 2023/04/13 10:46:16 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:46:21 accepted link,RemoteAddr  127.0.0.1:58252
+[INFO][server.go:48] 2023/04/13 10:46:44 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:46:44 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:46:44 handler shutting down...
+[INFO][server.go:48] 2023/04/13 10:46:51 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:46:51 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:46:51 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:46:51 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:46:51 connection closed: 127.0.0.1:58252
+[INFO][handler.go:111] 2023/04/13 10:46:51 handler shutting down...
+[INFO][handler.go:43] 2023/04/13 10:47:07 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:47:07 data recover start
+[INFO][aof.go:161] 2023/04/13 10:47:07 data recover completed
+[INFO][server.go:38] 2023/04/13 10:47:07 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:47:14 accepted link,RemoteAddr  127.0.0.1:58259
+[INFO][server.go:48] 2023/04/13 10:47:21 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:47:21 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:47:21 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:47:21 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:47:21 connection closed: 127.0.0.1:58259
+[INFO][handler.go:111] 2023/04/13 10:47:21 handler shutting down...
+[INFO][handler.go:43] 2023/04/13 10:47:25 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:47:25 data recover start
+[INFO][aof.go:161] 2023/04/13 10:47:26 data recover completed
+[INFO][server.go:38] 2023/04/13 10:47:29 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:47:39 accepted link,RemoteAddr  127.0.0.1:58267
+[INFO][handler.go:43] 2023/04/13 10:49:13 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:49:13 data recover start
+[INFO][aof.go:161] 2023/04/13 10:49:14 data recover completed
+[INFO][server.go:48] 2023/04/13 10:49:14 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:49:14 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:49:14 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:49:14 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:49:14 connection closed: 127.0.0.1:58267
+[INFO][handler.go:111] 2023/04/13 10:49:14 handler shutting down...
+[INFO][handler.go:43] 2023/04/13 10:49:16 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:49:16 data recover start
+[INFO][aof.go:161] 2023/04/13 10:49:19 data recover completed
+[INFO][server.go:38] 2023/04/13 10:49:19 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:49:23 accepted link,RemoteAddr  127.0.0.1:58292
+[ERROR][handler.go:97] 2023/04/13 10:49:27 require multi bulk reply
+[ERROR][handler.go:97] 2023/04/13 10:49:33 require multi bulk reply
+[INFO][server.go:48] 2023/04/13 10:49:33 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:49:33 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:49:33 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:49:33 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:49:33 connection closed: 127.0.0.1:58292
+[INFO][handler.go:111] 2023/04/13 10:49:33 handler shutting down...
+[INFO][handler.go:43] 2023/04/13 10:49:35 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:49:35 data recover start
+[INFO][aof.go:161] 2023/04/13 10:49:35 data recover completed
+[INFO][server.go:38] 2023/04/13 10:49:35 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:49:36 accepted link,RemoteAddr  127.0.0.1:58295
+[ERROR][handler.go:97] 2023/04/13 10:49:37 require multi bulk reply
+[ERROR][handler.go:97] 2023/04/13 10:49:37 require multi bulk reply
+[ERROR][handler.go:97] 2023/04/13 10:49:37 require multi bulk reply
+[ERROR][handler.go:97] 2023/04/13 10:49:38 require multi bulk reply
+[ERROR][handler.go:97] 2023/04/13 10:49:38 require multi bulk reply
+[ERROR][handler.go:97] 2023/04/13 10:49:39 require multi bulk reply
+[ERROR][handler.go:97] 2023/04/13 10:49:40 require multi bulk reply
+[INFO][server.go:48] 2023/04/13 10:49:58 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:49:58 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:49:58 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:49:58 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:49:58 connection closed: 127.0.0.1:58295
+[INFO][handler.go:111] 2023/04/13 10:49:58 handler shutting down...
+[INFO][handler.go:43] 2023/04/13 10:49:59 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:49:59 data recover start
+[INFO][aof.go:161] 2023/04/13 10:50:02 data recover completed
+[INFO][server.go:38] 2023/04/13 10:50:02 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:50:05 accepted link,RemoteAddr  127.0.0.1:58308
+[ERROR][handler.go:97] 2023/04/13 10:51:46 require multi bulk reply
+[INFO][server.go:48] 2023/04/13 10:51:46 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:51:46 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:111] 2023/04/13 10:51:46 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:51:46 notice : why programme exited without err ?
+[INFO][handler.go:76] 2023/04/13 10:51:46 connection closed: 127.0.0.1:58308
+[INFO][handler.go:111] 2023/04/13 10:51:46 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 10:57:11 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:57:11 data recover start
+[INFO][aof.go:161] 2023/04/13 10:57:11 data recover completed
+[INFO][server.go:38] 2023/04/13 10:57:11 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:57:14 accepted link,RemoteAddr  127.0.0.1:58427
+[INFO][handler.go:44] 2023/04/13 10:57:28 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:57:28 data recover start
+[INFO][aof.go:161] 2023/04/13 10:57:28 data recover completed
+[INFO][server.go:38] 2023/04/13 10:57:28 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:57:30 accepted link,RemoteAddr  127.0.0.1:58432
+[INFO][handler.go:44] 2023/04/13 10:59:21 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:59:21 data recover start
+[INFO][aof.go:161] 2023/04/13 10:59:21 data recover completed
+[ERROR][main.go:45] 2023/04/13 10:59:21 listen tcp 0.0.0.0:6379: bind: address already in use
+[INFO][server.go:48] 2023/04/13 10:59:22 shutting down...
+[ERROR][server.go:63] 2023/04/13 10:59:22 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:118] 2023/04/13 10:59:22 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 10:59:22 notice : why programme exited without err ?
+[INFO][handler.go:77] 2023/04/13 10:59:22 connection closed: 127.0.0.1:58432
+[INFO][handler.go:118] 2023/04/13 10:59:22 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 10:59:22 staring through standalone
+[INFO][aof.go:118] 2023/04/13 10:59:22 data recover start
+[INFO][aof.go:161] 2023/04/13 10:59:23 data recover completed
+[INFO][server.go:38] 2023/04/13 10:59:23 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 10:59:27 accepted link,RemoteAddr  127.0.0.1:58451
+[INFO][server.go:48] 2023/04/13 11:01:00 shutting down...
+[ERROR][server.go:63] 2023/04/13 11:01:00 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 11:01:00 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 11:01:00 notice : why programme exited without err ?
+[INFO][handler.go:77] 2023/04/13 11:01:00 connection closed: 127.0.0.1:58451
+[INFO][handler.go:120] 2023/04/13 11:01:00 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 11:01:02 staring through standalone
+[INFO][aof.go:118] 2023/04/13 11:01:02 data recover start
+[INFO][aof.go:161] 2023/04/13 11:01:02 data recover completed
+[INFO][server.go:38] 2023/04/13 11:01:02 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 11:01:05 accepted link,RemoteAddr  127.0.0.1:58466
+[INFO][server.go:48] 2023/04/13 11:02:50 shutting down...
+[ERROR][server.go:63] 2023/04/13 11:02:50 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 11:02:50 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 11:02:50 notice : why programme exited without err ?
+[INFO][handler.go:77] 2023/04/13 11:02:50 connection closed: 127.0.0.1:58466
+[INFO][handler.go:120] 2023/04/13 11:02:50 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 11:02:51 staring through standalone
+[INFO][aof.go:118] 2023/04/13 11:02:51 data recover start
+[INFO][aof.go:161] 2023/04/13 11:02:51 data recover completed
+[INFO][server.go:38] 2023/04/13 11:02:51 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 11:02:54 accepted link,RemoteAddr  127.0.0.1:58503
+[INFO][server.go:48] 2023/04/13 11:03:05 shutting down...
+[ERROR][server.go:63] 2023/04/13 11:03:05 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 11:03:05 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 11:03:05 notice : why programme exited without err ?
+[INFO][handler.go:77] 2023/04/13 11:03:05 connection closed: 127.0.0.1:58503
+[INFO][handler.go:120] 2023/04/13 11:03:05 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 11:03:57 staring through standalone
+[INFO][aof.go:118] 2023/04/13 11:03:57 data recover start
+[INFO][aof.go:161] 2023/04/13 11:03:58 data recover completed
+[INFO][server.go:38] 2023/04/13 11:03:58 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 11:04:01 accepted link,RemoteAddr  127.0.0.1:58519
+[INFO][server.go:48] 2023/04/13 11:04:20 shutting down...
+[ERROR][server.go:63] 2023/04/13 11:04:20 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 11:04:20 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 11:04:20 notice : why programme exited without err ?
+[INFO][handler.go:77] 2023/04/13 11:04:20 connection closed: 127.0.0.1:58519
+[INFO][handler.go:120] 2023/04/13 11:04:20 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 11:04:21 staring through standalone
+[INFO][aof.go:118] 2023/04/13 11:04:21 data recover start
+[INFO][aof.go:161] 2023/04/13 11:04:24 data recover completed
+[INFO][server.go:38] 2023/04/13 11:04:24 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 11:04:27 accepted link,RemoteAddr  127.0.0.1:58529
+[INFO][server.go:48] 2023/04/13 11:05:53 shutting down...
+[ERROR][server.go:63] 2023/04/13 11:05:53 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 11:05:53 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 11:05:53 notice : why programme exited without err ?
+[INFO][handler.go:77] 2023/04/13 11:05:53 connection closed: 127.0.0.1:58529
+[INFO][handler.go:120] 2023/04/13 11:05:53 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 11:05:54 staring through standalone
+[INFO][aof.go:118] 2023/04/13 11:05:54 data recover start
+[INFO][aof.go:161] 2023/04/13 11:05:54 data recover completed
+[INFO][server.go:38] 2023/04/13 11:05:54 server started in 0.0.0.0:6379
+[INFO][server.go:48] 2023/04/13 11:06:00 shutting down...
+[ERROR][server.go:63] 2023/04/13 11:06:00 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 11:06:00 handler shutting down...
+[INFO][handler.go:44] 2023/04/13 11:06:01 staring through standalone
+[INFO][aof.go:118] 2023/04/13 11:06:01 data recover start
+[INFO][aof.go:161] 2023/04/13 11:06:02 data recover completed
+[INFO][server.go:38] 2023/04/13 11:06:02 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 11:06:03 accepted link,RemoteAddr  127.0.0.1:58558
+[INFO][server.go:48] 2023/04/13 11:20:34 shutting down...
+[ERROR][server.go:63] 2023/04/13 11:20:34 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 11:20:34 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 11:20:34 notice : why programme exited without err ?
+[INFO][handler.go:77] 2023/04/13 11:20:34 connection closed: 127.0.0.1:58558
+[INFO][handler.go:120] 2023/04/13 11:20:34 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 11:20:53 staring through cluster
+[INFO][aof.go:118] 2023/04/13 11:20:53 data recover start
+[INFO][aof.go:161] 2023/04/13 11:20:53 data recover completed
+[INFO][server.go:38] 2023/04/13 11:20:53 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 11:21:13 staring through cluster
+[INFO][aof.go:118] 2023/04/13 11:21:13 data recover start
+[INFO][aof.go:161] 2023/04/13 11:21:13 data recover completed
+[INFO][server.go:38] 2023/04/13 11:21:13 server started in 0.0.0.0:6380
+[INFO][server.go:48] 2023/04/13 12:34:16 shutting down...
+[INFO][server.go:48] 2023/04/13 12:34:16 shutting down...
+[INFO][handler.go:120] 2023/04/13 12:34:16 handler shutting down...
+[ERROR][server.go:63] 2023/04/13 12:34:16 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 12:34:16 handler shutting down...
+[ERROR][server.go:63] 2023/04/13 12:34:16 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:120] 2023/04/13 12:34:16 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:34:18 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:34:18 data recover start
+[INFO][aof.go:161] 2023/04/13 12:34:18 data recover completed
+[INFO][server.go:38] 2023/04/13 12:34:18 server started in 0.0.0.0:6380
+[INFO][handler.go:41] 2023/04/13 12:34:28 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:34:28 data recover start
+[INFO][aof.go:161] 2023/04/13 12:34:28 data recover completed
+[INFO][server.go:38] 2023/04/13 12:34:28 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 12:34:32 accepted link,RemoteAddr  127.0.0.1:59727
+[ERROR][database.go:52] 2023/04/13 12:34:42 reflect: call of reflect.Value.Pointer on struct Value
+[INFO][server.go:66] 2023/04/13 12:34:42 accepted link,RemoteAddr  127.0.0.1:59728
+[INFO][server.go:48] 2023/04/13 12:36:18 shutting down...
+[INFO][server.go:48] 2023/04/13 12:36:18 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:36:18 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:36:18 handler shutting down...
+[ERROR][server.go:63] 2023/04/13 12:36:18 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[ERROR][parser.go:48] 2023/04/13 12:36:18 notice : why programme exited without err ?
+[INFO][handler.go:122] 2023/04/13 12:36:18 handler shutting down...
+[INFO][handler.go:78] 2023/04/13 12:36:18 connection closed: 127.0.0.1:59728
+[INFO][handler.go:122] 2023/04/13 12:36:18 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:36:18 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:36:18 connection closed: 127.0.0.1:59727
+[INFO][handler.go:122] 2023/04/13 12:36:18 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:36:19 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:36:19 data recover start
+[INFO][aof.go:161] 2023/04/13 12:36:20 data recover completed
+[INFO][server.go:38] 2023/04/13 12:36:20 server started in 0.0.0.0:6379
+[INFO][server.go:48] 2023/04/13 12:36:24 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:36:24 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:36:24 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:36:26 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:36:26 data recover start
+[INFO][aof.go:161] 2023/04/13 12:36:26 data recover completed
+[INFO][server.go:38] 2023/04/13 12:36:26 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 12:36:31 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:36:31 data recover start
+[INFO][aof.go:161] 2023/04/13 12:36:31 data recover completed
+[INFO][server.go:38] 2023/04/13 12:36:31 server started in 0.0.0.0:6380
+[INFO][server.go:48] 2023/04/13 12:36:38 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:36:38 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:36:38 handler shutting down...
+[INFO][server.go:48] 2023/04/13 12:36:38 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:36:38 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:36:38 handler shutting down...
+[INFO][handler.go:122] 2023/04/13 12:36:38 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:36:44 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:36:44 data recover start
+[INFO][aof.go:161] 2023/04/13 12:36:44 data recover completed
+[INFO][server.go:38] 2023/04/13 12:36:44 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 12:36:50 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:36:50 data recover start
+[INFO][aof.go:161] 2023/04/13 12:36:50 data recover completed
+[INFO][server.go:38] 2023/04/13 12:36:50 server started in 0.0.0.0:6380
+[INFO][server.go:48] 2023/04/13 12:36:55 shutting down...
+[INFO][server.go:48] 2023/04/13 12:36:55 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:36:55 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[ERROR][server.go:63] 2023/04/13 12:36:55 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:36:55 handler shutting down...
+[INFO][handler.go:122] 2023/04/13 12:36:55 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:36:58 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:36:58 data recover start
+[INFO][aof.go:161] 2023/04/13 12:36:59 data recover completed
+[INFO][server.go:38] 2023/04/13 12:36:59 server started in 0.0.0.0:6380
+[INFO][handler.go:41] 2023/04/13 12:37:05 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:37:05 data recover start
+[INFO][aof.go:161] 2023/04/13 12:37:05 data recover completed
+[INFO][server.go:38] 2023/04/13 12:37:05 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 12:37:10 accepted link,RemoteAddr  127.0.0.1:59774
+[INFO][server.go:66] 2023/04/13 12:37:32 accepted link,RemoteAddr  127.0.0.1:59775
+[ERROR][database.go:52] 2023/04/13 12:37:32 reflect: call of reflect.Value.Pointer on struct Value
+[INFO][server.go:66] 2023/04/13 12:38:19 accepted link,RemoteAddr  127.0.0.1:59779
+[INFO][server.go:48] 2023/04/13 12:38:45 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:38:45 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:38:45 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:38:45 notice : why programme exited without err ?
+[ERROR][parser.go:48] 2023/04/13 12:38:45 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:38:45 connection closed: 127.0.0.1:59775
+[INFO][handler.go:78] 2023/04/13 12:38:45 connection closed: 127.0.0.1:59779
+[INFO][handler.go:122] 2023/04/13 12:38:45 handler shutting down...
+[INFO][server.go:48] 2023/04/13 12:38:47 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:38:47 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:38:47 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:38:57 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:38:57 data recover start
+[INFO][aof.go:161] 2023/04/13 12:38:57 data recover completed
+[INFO][server.go:38] 2023/04/13 12:38:57 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 12:39:02 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:39:02 data recover start
+[INFO][aof.go:161] 2023/04/13 12:39:03 data recover completed
+[INFO][server.go:38] 2023/04/13 12:39:03 server started in 0.0.0.0:6380
+[INFO][server.go:66] 2023/04/13 12:39:05 accepted link,RemoteAddr  127.0.0.1:59789
+[INFO][server.go:66] 2023/04/13 12:39:46 accepted link,RemoteAddr  127.0.0.1:59796
+[ERROR][database.go:52] 2023/04/13 12:40:12 reflect: call of reflect.Value.Pointer on struct Value
+[INFO][server.go:66] 2023/04/13 12:40:24 accepted link,RemoteAddr  127.0.0.1:59822
+[INFO][server.go:48] 2023/04/13 12:40:49 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:40:49 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:40:49 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:40:58 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:40:58 data recover start
+[INFO][aof.go:161] 2023/04/13 12:40:58 data recover completed
+[ERROR][main.go:45] 2023/04/13 12:40:58 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][handler.go:41] 2023/04/13 12:41:07 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:41:07 data recover start
+[INFO][aof.go:161] 2023/04/13 12:41:07 data recover completed
+[INFO][server.go:38] 2023/04/13 12:41:07 server started in 0.0.0.0:6379
+[INFO][server.go:66] 2023/04/13 12:41:11 accepted link,RemoteAddr  127.0.0.1:59842
+[INFO][server.go:66] 2023/04/13 12:41:39 accepted link,RemoteAddr  127.0.0.1:59843
+[ERROR][database.go:52] 2023/04/13 12:42:12 reflect: call of reflect.Value.Pointer on struct Value
+[INFO][server.go:48] 2023/04/13 12:42:15 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:42:15 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:42:15 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:42:15 notice : why programme exited without err ?
+[ERROR][parser.go:48] 2023/04/13 12:42:15 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:42:15 connection closed: 127.0.0.1:59796
+[ERROR][parser.go:48] 2023/04/13 12:42:15 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:42:15 connection closed: 127.0.0.1:59822
+[INFO][handler.go:78] 2023/04/13 12:42:15 connection closed: 127.0.0.1:59843
+[INFO][handler.go:122] 2023/04/13 12:42:15 handler shutting down...
+[INFO][server.go:48] 2023/04/13 12:42:15 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:42:15 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:42:15 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:42:15 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:42:15 connection closed: 127.0.0.1:59842
+[INFO][handler.go:122] 2023/04/13 12:42:15 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:42:27 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:42:27 data recover start
+[INFO][aof.go:161] 2023/04/13 12:42:27 data recover completed
+[INFO][server.go:38] 2023/04/13 12:42:27 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 12:42:34 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:42:34 data recover start
+[INFO][aof.go:161] 2023/04/13 12:42:34 data recover completed
+[INFO][server.go:38] 2023/04/13 12:42:34 server started in 0.0.0.0:6380
+[INFO][handler.go:41] 2023/04/13 12:42:44 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:42:44 data recover start
+[INFO][aof.go:161] 2023/04/13 12:42:44 data recover completed
+[ERROR][main.go:45] 2023/04/13 12:42:44 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][handler.go:41] 2023/04/13 12:42:46 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:42:46 data recover start
+[INFO][aof.go:161] 2023/04/13 12:42:46 data recover completed
+[ERROR][main.go:45] 2023/04/13 12:42:46 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][server.go:48] 2023/04/13 12:42:54 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:42:54 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:42:54 handler shutting down...
+[INFO][server.go:48] 2023/04/13 12:42:54 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:42:54 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:42:54 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:42:57 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:42:57 data recover start
+[INFO][aof.go:161] 2023/04/13 12:42:57 data recover completed
+[INFO][server.go:38] 2023/04/13 12:42:57 server started in 0.0.0.0:6380
+[INFO][handler.go:41] 2023/04/13 12:43:04 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:43:04 data recover start
+[INFO][aof.go:161] 2023/04/13 12:43:05 data recover completed
+[INFO][server.go:38] 2023/04/13 12:43:05 server started in 0.0.0.0:6379
+[INFO][server.go:48] 2023/04/13 12:43:13 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:43:13 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:43:13 handler shutting down...
+[INFO][server.go:48] 2023/04/13 12:43:13 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:43:13 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:43:13 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:45:27 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:45:27 data recover start
+[INFO][aof.go:161] 2023/04/13 12:45:28 data recover completed
+[INFO][server.go:38] 2023/04/13 12:45:28 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 12:45:32 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:45:32 data recover start
+[INFO][aof.go:161] 2023/04/13 12:45:32 data recover completed
+[INFO][server.go:38] 2023/04/13 12:45:32 server started in 0.0.0.0:6380
+[INFO][server.go:66] 2023/04/13 12:45:42 accepted link,RemoteAddr  127.0.0.1:59902
+[ERROR][database.go:52] 2023/04/13 12:45:47 reflect: call of reflect.Value.Pointer on struct Value
+[INFO][server.go:66] 2023/04/13 12:45:47 accepted link,RemoteAddr  127.0.0.1:59903
+[INFO][server.go:48] 2023/04/13 12:47:46 shutting down...
+[INFO][server.go:48] 2023/04/13 12:47:46 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:47:46 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[ERROR][server.go:63] 2023/04/13 12:47:46 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:47:46 handler shutting down...
+[INFO][handler.go:122] 2023/04/13 12:47:46 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:47:46 notice : why programme exited without err ?
+[ERROR][parser.go:48] 2023/04/13 12:47:46 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:47:46 connection closed: 127.0.0.1:59903
+[INFO][handler.go:122] 2023/04/13 12:47:46 handler shutting down...
+[INFO][handler.go:78] 2023/04/13 12:47:46 connection closed: 127.0.0.1:59902
+[INFO][handler.go:122] 2023/04/13 12:47:46 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:47:54 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:47:54 data recover start
+[INFO][aof.go:161] 2023/04/13 12:47:54 data recover completed
+[INFO][server.go:38] 2023/04/13 12:47:54 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 12:47:57 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:47:57 data recover start
+[INFO][aof.go:161] 2023/04/13 12:47:57 data recover completed
+[INFO][server.go:38] 2023/04/13 12:47:57 server started in 0.0.0.0:6380
+[INFO][handler.go:41] 2023/04/13 12:48:06 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:48:06 data recover start
+[INFO][aof.go:161] 2023/04/13 12:48:07 data recover completed
+[ERROR][main.go:45] 2023/04/13 12:48:07 listen tcp 0.0.0.0:6380: bind: address already in use
+[INFO][server.go:48] 2023/04/13 12:48:08 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:48:08 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:48:08 handler shutting down...
+[INFO][server.go:48] 2023/04/13 12:48:08 shutting down...
+[INFO][handler.go:122] 2023/04/13 12:48:08 handler shutting down...
+[ERROR][server.go:63] 2023/04/13 12:48:08 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:48:08 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:48:12 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:48:12 data recover start
+[INFO][aof.go:161] 2023/04/13 12:48:13 data recover completed
+[INFO][server.go:38] 2023/04/13 12:48:13 server started in 0.0.0.0:6379
+[INFO][handler.go:41] 2023/04/13 12:48:17 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:48:17 data recover start
+[INFO][aof.go:161] 2023/04/13 12:48:18 data recover completed
+[INFO][server.go:38] 2023/04/13 12:48:18 server started in 0.0.0.0:6380
+[INFO][server.go:66] 2023/04/13 12:48:24 accepted link,RemoteAddr  127.0.0.1:59964
+[INFO][server.go:48] 2023/04/13 12:49:02 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:49:02 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:49:02 handler shutting down...
+[ERROR][database.go:52] 2023/04/13 12:49:02 reflect: call of reflect.Value.Pointer on struct Value
+[INFO][handler.go:78] 2023/04/13 12:49:02 connection closed: 127.0.0.1:59964
+[INFO][handler.go:122] 2023/04/13 12:49:02 handler shutting down...
+[INFO][server.go:66] 2023/04/13 12:49:02 accepted link,RemoteAddr  127.0.0.1:59968
+[INFO][server.go:48] 2023/04/13 12:49:02 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:49:02 accept error,msg: accept tcp [::]:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:49:02 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:49:02 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:49:02 connection closed: 127.0.0.1:59968
+[INFO][handler.go:122] 2023/04/13 12:49:02 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:49:05 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:49:05 data recover start
+[INFO][aof.go:161] 2023/04/13 12:49:05 data recover completed
+[INFO][server.go:38] 2023/04/13 12:49:05 server started in 127.0.0.1:6380
+[INFO][handler.go:41] 2023/04/13 12:49:07 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:49:07 data recover start
+[INFO][aof.go:161] 2023/04/13 12:49:08 data recover completed
+[INFO][server.go:38] 2023/04/13 12:49:08 server started in 127.0.0.1:6379
+[INFO][server.go:66] 2023/04/13 12:49:10 accepted link,RemoteAddr  127.0.0.1:59978
+[INFO][server.go:48] 2023/04/13 12:51:32 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:51:32 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:51:32 handler shutting down...
+[ERROR][database.go:52] 2023/04/13 12:51:32 reflect: call of reflect.Value.Pointer on struct Value
+[INFO][handler.go:78] 2023/04/13 12:51:32 connection closed: 127.0.0.1:59978
+[INFO][handler.go:122] 2023/04/13 12:51:32 handler shutting down...
+[INFO][server.go:66] 2023/04/13 12:51:32 accepted link,RemoteAddr  127.0.0.1:59991
+[INFO][server.go:48] 2023/04/13 12:51:32 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:51:32 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:51:32 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:51:32 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:51:32 connection closed: 127.0.0.1:59991
+[INFO][handler.go:122] 2023/04/13 12:51:32 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:51:33 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:51:33 data recover start
+[INFO][aof.go:161] 2023/04/13 12:51:33 data recover completed
+[INFO][handler.go:41] 2023/04/13 12:52:38 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:52:38 data recover start
+[INFO][aof.go:161] 2023/04/13 12:52:38 data recover completed
+[INFO][server.go:38] 2023/04/13 12:52:41 server started in 127.0.0.1:6379
+[INFO][server.go:48] 2023/04/13 12:58:14 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:58:14 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:58:14 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:58:16 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:58:16 data recover start
+[INFO][aof.go:161] 2023/04/13 12:58:16 data recover completed
+[INFO][server.go:38] 2023/04/13 12:58:18 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 12:58:21 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:58:21 data recover start
+[INFO][aof.go:161] 2023/04/13 12:58:22 data recover completed
+[ERROR][main.go:45] 2023/04/13 12:58:24 listen tcp 127.0.0.1:6379: bind: address already in use
+[INFO][handler.go:41] 2023/04/13 12:58:32 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:58:32 data recover start
+[INFO][aof.go:161] 2023/04/13 12:58:32 data recover completed
+[INFO][server.go:38] 2023/04/13 12:58:34 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 12:58:40 accepted link,RemoteAddr  127.0.0.1:60134
+[ERROR][comm.go:48] 2023/04/13 12:58:47 peer connection pool has been exhausted
+[INFO][server.go:66] 2023/04/13 12:58:47 accepted link,RemoteAddr  127.0.0.1:60135
+[ERROR][comm.go:48] 2023/04/13 12:59:55 peer connection pool has been exhausted
+[INFO][server.go:48] 2023/04/13 12:59:55 shutting down...
+[ERROR][server.go:63] 2023/04/13 12:59:55 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:59:55 handler shutting down...
+[ERROR][comm.go:48] 2023/04/13 12:59:55 peer connection pool has been exhausted
+[ERROR][comm.go:48] 2023/04/13 12:59:55 peer connection pool has been exhausted
+[INFO][handler.go:78] 2023/04/13 12:59:55 connection closed: 127.0.0.1:60134
+[ERROR][parser.go:48] 2023/04/13 12:59:55 notice : why programme exited without err ?
+[INFO][handler.go:122] 2023/04/13 12:59:55 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:59:55 notice : why programme exited without err ?
+[INFO][server.go:66] 2023/04/13 12:59:55 accepted link,RemoteAddr  127.0.0.1:60144
+[INFO][handler.go:86] 2023/04/13 12:59:55 connection closed: 127.0.0.1:60135
+[INFO][server.go:48] 2023/04/13 12:59:55 shutting down...
+[INFO][server.go:66] 2023/04/13 12:59:55 accepted link,RemoteAddr  127.0.0.1:60145
+[ERROR][server.go:63] 2023/04/13 12:59:55 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 12:59:55 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 12:59:55 notice : why programme exited without err ?
+[ERROR][parser.go:48] 2023/04/13 12:59:55 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 12:59:55 connection closed: 127.0.0.1:60145
+[INFO][handler.go:78] 2023/04/13 12:59:55 connection closed: 127.0.0.1:60144
+[INFO][handler.go:122] 2023/04/13 12:59:55 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 12:59:57 staring through cluster
+[INFO][aof.go:118] 2023/04/13 12:59:57 data recover start
+[INFO][aof.go:161] 2023/04/13 12:59:57 data recover completed
+[INFO][server.go:38] 2023/04/13 12:59:59 server started in 127.0.0.1:6380
+[INFO][handler.go:41] 2023/04/13 13:00:08 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:00:08 data recover start
+[INFO][aof.go:161] 2023/04/13 13:00:08 data recover completed
+[INFO][server.go:38] 2023/04/13 13:00:08 server started in 127.0.0.1:6379
+[INFO][server.go:66] 2023/04/13 13:00:10 accepted link,RemoteAddr  127.0.0.1:60155
+[INFO][server.go:66] 2023/04/13 13:00:56 accepted link,RemoteAddr  127.0.0.1:60159
+[ERROR][comm.go:48] 2023/04/13 13:05:02 peer connection pool has been exhausted
+[INFO][server.go:48] 2023/04/13 13:05:02 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:05:02 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:05:02 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:05:02 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:05:02 connection closed: 127.0.0.1:60155
+[INFO][handler.go:122] 2023/04/13 13:05:02 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:05:02 notice : why programme exited without err ?
+[INFO][server.go:48] 2023/04/13 13:05:02 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:05:02 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:05:02 handler shutting down...
+[INFO][handler.go:86] 2023/04/13 13:05:02 connection closed: 127.0.0.1:60159
+[INFO][handler.go:122] 2023/04/13 13:05:02 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:05:04 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:05:04 data recover start
+[INFO][aof.go:161] 2023/04/13 13:05:04 data recover completed
+[INFO][server.go:38] 2023/04/13 13:05:04 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:05:09 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:05:09 data recover start
+[INFO][aof.go:161] 2023/04/13 13:05:09 data recover completed
+[INFO][server.go:38] 2023/04/13 13:05:09 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:05:13 accepted link,RemoteAddr  127.0.0.1:60207
+[DEBUG][comm.go:62] 2023/04/13 13:05:25 switch to 127.0.0.1:6380 , command is : s k val
+[INFO][server.go:66] 2023/04/13 13:05:25 accepted link,RemoteAddr  127.0.0.1:60208
+[DEBUG][comm.go:42] 2023/04/13 13:05:25 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:05:56 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:05:56 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:05:56 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:05:56 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:05:56 connection closed: 127.0.0.1:60208
+[INFO][handler.go:122] 2023/04/13 13:05:56 handler shutting down...
+[INFO][server.go:48] 2023/04/13 13:05:56 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:05:56 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:05:56 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:05:56 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:05:56 connection closed: 127.0.0.1:60207
+[INFO][handler.go:122] 2023/04/13 13:05:56 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:05:57 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:05:57 data recover start
+[INFO][aof.go:161] 2023/04/13 13:05:57 data recover completed
+[INFO][server.go:38] 2023/04/13 13:05:57 server started in 127.0.0.1:6380
+[INFO][handler.go:41] 2023/04/13 13:06:03 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:06:03 data recover start
+[INFO][aof.go:161] 2023/04/13 13:06:03 data recover completed
+[INFO][server.go:38] 2023/04/13 13:06:03 server started in 127.0.0.1:6379
+[INFO][server.go:66] 2023/04/13 13:06:05 accepted link,RemoteAddr  127.0.0.1:60219
+[INFO][server.go:66] 2023/04/13 13:06:35 accepted link,RemoteAddr  127.0.0.1:60220
+[DEBUG][comm.go:62] 2023/04/13 13:07:12 switch to 127.0.0.1:6380 , command is : s k val
+[INFO][server.go:48] 2023/04/13 13:07:12 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:07:12 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:07:12 handler shutting down...
+[DEBUG][comm.go:42] 2023/04/13 13:07:12 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:07:12 shutting down...
+[INFO][handler.go:78] 2023/04/13 13:07:12 connection closed: 127.0.0.1:60219
+[INFO][handler.go:122] 2023/04/13 13:07:12 handler shutting down...
+[ERROR][server.go:63] 2023/04/13 13:07:12 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:07:12 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:07:12 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:07:12 connection closed: 127.0.0.1:60220
+[INFO][handler.go:122] 2023/04/13 13:07:12 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:07:13 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:07:13 data recover start
+[INFO][aof.go:161] 2023/04/13 13:07:13 data recover completed
+[INFO][server.go:38] 2023/04/13 13:07:13 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:07:16 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:07:16 data recover start
+[INFO][aof.go:161] 2023/04/13 13:07:16 data recover completed
+[INFO][server.go:38] 2023/04/13 13:07:16 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:07:18 accepted link,RemoteAddr  127.0.0.1:60230
+[INFO][server.go:66] 2023/04/13 13:07:24 accepted link,RemoteAddr  127.0.0.1:60231
+[DEBUG][comm.go:62] 2023/04/13 13:07:29 switch to 127.0.0.1:6380 , command is : set key value
+[DEBUG][comm.go:42] 2023/04/13 13:07:29 no need relay,exec command locally
+[INFO][server.go:66] 2023/04/13 13:08:06 accepted link,RemoteAddr  127.0.0.1:60241
+[DEBUG][comm.go:62] 2023/04/13 13:08:09 switch to 127.0.0.1:6380 , command is : set key value
+[DEBUG][comm.go:42] 2023/04/13 13:08:09 no need relay,exec command locally
+[INFO][server.go:66] 2023/04/13 13:09:35 accepted link,RemoteAddr  127.0.0.1:60253
+[DEBUG][comm.go:62] 2023/04/13 13:09:35 switch to 127.0.0.1:6380 , command is : exists key2
+[DEBUG][comm.go:42] 2023/04/13 13:09:35 no need relay,exec command locally
+[DEBUG][comm.go:62] 2023/04/13 13:09:38 switch to 127.0.0.1:6380 , command is : exists key1
+[INFO][server.go:66] 2023/04/13 13:09:38 accepted link,RemoteAddr  127.0.0.1:60254
+[DEBUG][comm.go:42] 2023/04/13 13:09:38 no need relay,exec command locally
+[DEBUG][comm.go:42] 2023/04/13 13:09:45 no need relay,exec command locally
+[INFO][server.go:66] 2023/04/13 13:09:48 accepted link,RemoteAddr  127.0.0.1:60256
+[DEBUG][comm.go:62] 2023/04/13 13:09:48 switch to 127.0.0.1:6380 , command is : exists key2
+[DEBUG][comm.go:42] 2023/04/13 13:09:48 no need relay,exec command locally
+[ERROR][parser.go:46] 2023/04/13 13:09:57 goroutine 22 [running]:
+runtime/debug.Stack()
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/debug/stack.go:24 +0x64
+GoRedis/resp/parser.parse0.func1()
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:46 +0xec
+panic({0x100d58900, 0x1400001c198})
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/panic.go:890 +0x26c
+GoRedis/resp/parser.readLine(0x14000094120, 0x14000057f50)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:164 +0x3f0
+GoRedis/resp/parser.parse0({0x1283cd018, 0x1400009e008}, 0x140000b01e0)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:60 +0xf4
+created by GoRedis/resp/parser.ParseStream
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:35 +0xe0
+
+[INFO][server.go:66] 2023/04/13 13:10:35 accepted link,RemoteAddr  127.0.0.1:60260
+[DEBUG][comm.go:62] 2023/04/13 13:10:35 switch to 127.0.0.1:6380 , command is : exists key2
+[DEBUG][comm.go:42] 2023/04/13 13:10:35 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:10:40 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:10:40 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:10:40 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:10:40 notice : why programme exited without err ?
+[ERROR][parser.go:48] 2023/04/13 13:10:40 notice : why programme exited without err ?
+[ERROR][parser.go:48] 2023/04/13 13:10:40 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:10:40 connection closed: 127.0.0.1:60241
+[ERROR][parser.go:48] 2023/04/13 13:10:40 notice : why programme exited without err ?
+[ERROR][parser.go:48] 2023/04/13 13:10:40 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:10:40 connection closed: 127.0.0.1:60260
+[INFO][handler.go:78] 2023/04/13 13:10:40 connection closed: 127.0.0.1:60253
+[INFO][handler.go:78] 2023/04/13 13:10:40 connection closed: 127.0.0.1:60231
+[INFO][handler.go:78] 2023/04/13 13:10:40 connection closed: 127.0.0.1:60256
+[ERROR][parser.go:48] 2023/04/13 13:10:40 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:10:40 connection closed: 127.0.0.1:60254
+[INFO][handler.go:122] 2023/04/13 13:10:40 handler shutting down...
+[INFO][server.go:48] 2023/04/13 13:10:40 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:10:40 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:10:40 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:10:40 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:10:40 connection closed: 127.0.0.1:60230
+[INFO][handler.go:122] 2023/04/13 13:10:40 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:10:48 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:10:48 data recover start
+[INFO][aof.go:161] 2023/04/13 13:10:48 data recover completed
+[INFO][server.go:38] 2023/04/13 13:10:48 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:10:50 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:10:50 data recover start
+[INFO][aof.go:161] 2023/04/13 13:10:50 data recover completed
+[INFO][server.go:38] 2023/04/13 13:10:50 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:10:53 accepted link,RemoteAddr  127.0.0.1:60270
+[DEBUG][comm.go:62] 2023/04/13 13:10:57 switch to 127.0.0.1:6380 , command is : 'exists key2'
+[INFO][server.go:66] 2023/04/13 13:10:57 accepted link,RemoteAddr  127.0.0.1:60271
+[DEBUG][comm.go:42] 2023/04/13 13:10:57 no need relay,exec command locally
+[ERROR][parser.go:46] 2023/04/13 13:11:28 goroutine 51 [running]:
+runtime/debug.Stack()
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/debug/stack.go:24 +0x64
+GoRedis/resp/parser.parse0.func1()
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:46 +0xec
+panic({0x104564900, 0x14000220048})
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/panic.go:890 +0x26c
+GoRedis/resp/parser.readLine(0x140002100c0, 0x1400020ef50)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:164 +0x3f0
+GoRedis/resp/parser.parse0({0x12bc58028, 0x14000218000}, 0x1400022c000)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:60 +0xf4
+created by GoRedis/resp/parser.ParseStream
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:35 +0xe0
+
+[INFO][server.go:48] 2023/04/13 13:12:16 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:12:16 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:12:16 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:12:16 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:12:16 connection closed: 127.0.0.1:60270
+[INFO][handler.go:122] 2023/04/13 13:12:16 handler shutting down...
+[ERROR][parser.go:48] 2023/04/13 13:12:16 notice : why programme exited without err ?
+[INFO][handler.go:86] 2023/04/13 13:12:16 connection closed: 127.0.0.1:60271
+[INFO][server.go:48] 2023/04/13 13:12:16 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:12:16 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:12:16 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:12:17 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:12:17 data recover start
+[INFO][aof.go:161] 2023/04/13 13:12:20 data recover completed
+[INFO][server.go:38] 2023/04/13 13:12:20 server started in 127.0.0.1:6380
+[INFO][handler.go:41] 2023/04/13 13:12:25 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:12:25 data recover start
+[INFO][aof.go:161] 2023/04/13 13:12:25 data recover completed
+[INFO][server.go:38] 2023/04/13 13:12:25 server started in 127.0.0.1:6379
+[INFO][server.go:66] 2023/04/13 13:12:31 accepted link,RemoteAddr  127.0.0.1:60290
+[DEBUG][comm.go:62] 2023/04/13 13:12:34 switch to 127.0.0.1:6380 , command is : 'exists key2'
+[INFO][server.go:66] 2023/04/13 13:12:34 accepted link,RemoteAddr  127.0.0.1:60291
+[DEBUG][comm.go:42] 2023/04/13 13:12:34 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:18:19 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:18:19 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:18:19 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:18:19 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:18:19 connection closed: 127.0.0.1:60290
+[INFO][handler.go:122] 2023/04/13 13:18:19 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:18:19 notice : why programme exited without err ?
+[INFO][handler.go:86] 2023/04/13 13:18:19 connection closed: 127.0.0.1:60291
+[INFO][handler.go:41] 2023/04/13 13:18:54 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:18:54 data recover start
+[INFO][aof.go:161] 2023/04/13 13:18:56 data recover completed
+[INFO][server.go:38] 2023/04/13 13:18:57 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:19:00 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:19:00 data recover start
+[INFO][aof.go:161] 2023/04/13 13:19:02 data recover completed
+[INFO][server.go:38] 2023/04/13 13:19:02 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:19:10 accepted link,RemoteAddr  127.0.0.1:60344
+[INFO][server.go:48] 2023/04/13 13:19:43 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:19:43 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:19:43 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:19:43 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:19:43 connection closed: 127.0.0.1:60344
+[INFO][handler.go:122] 2023/04/13 13:19:43 handler shutting down...
+[INFO][server.go:48] 2023/04/13 13:19:43 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:19:43 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:19:43 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:20:26 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:20:26 data recover start
+[INFO][handler.go:41] 2023/04/13 13:20:31 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:20:31 data recover start
+[INFO][aof.go:161] 2023/04/13 13:20:36 data recover completed
+[INFO][server.go:38] 2023/04/13 13:20:36 server started in 127.0.0.1:6379
+[INFO][aof.go:161] 2023/04/13 13:20:38 data recover completed
+[INFO][server.go:38] 2023/04/13 13:20:38 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:20:42 accepted link,RemoteAddr  127.0.0.1:60361
+[DEBUG][comm.go:62] 2023/04/13 13:23:53 switch to 127.0.0.1:6380 , command is : 'exists key2'
+[INFO][server.go:66] 2023/04/13 13:23:53 accepted link,RemoteAddr  127.0.0.1:60381
+[DEBUG][comm.go:42] 2023/04/13 13:23:53 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:24:11 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:24:11 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:24:11 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:24:11 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:24:11 connection closed: 127.0.0.1:60381
+[INFO][handler.go:122] 2023/04/13 13:24:11 handler shutting down...
+[INFO][server.go:48] 2023/04/13 13:24:11 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:24:11 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:24:11 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:24:11 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:24:11 connection closed: 127.0.0.1:60361
+[INFO][handler.go:122] 2023/04/13 13:24:11 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:24:12 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:24:12 data recover start
+[INFO][aof.go:161] 2023/04/13 13:24:13 data recover completed
+[INFO][server.go:38] 2023/04/13 13:24:13 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:24:15 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:24:15 data recover start
+[INFO][aof.go:161] 2023/04/13 13:24:15 data recover completed
+[INFO][server.go:38] 2023/04/13 13:24:15 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:24:17 accepted link,RemoteAddr  127.0.0.1:60390
+[INFO][server.go:66] 2023/04/13 13:24:20 accepted link,RemoteAddr  127.0.0.1:60391
+[DEBUG][comm.go:62] 2023/04/13 13:24:20 switch to 127.0.0.1:6380 , command is : 'exists key2'
+[DEBUG][comm.go:42] 2023/04/13 13:24:20 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:26:38 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:26:38 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:26:38 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:26:38 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:26:38 connection closed: 127.0.0.1:60390
+[INFO][handler.go:122] 2023/04/13 13:26:38 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:26:38 notice : why programme exited without err ?
+[INFO][server.go:48] 2023/04/13 13:26:38 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:26:38 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:26:38 handler shutting down...
+[INFO][handler.go:86] 2023/04/13 13:26:38 connection closed: 127.0.0.1:60391
+[INFO][handler.go:122] 2023/04/13 13:26:38 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:26:43 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:26:43 data recover start
+[INFO][aof.go:161] 2023/04/13 13:26:50 data recover completed
+[INFO][server.go:38] 2023/04/13 13:26:51 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:26:57 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:26:57 data recover start
+[INFO][aof.go:161] 2023/04/13 13:26:59 data recover completed
+[INFO][server.go:38] 2023/04/13 13:27:00 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:27:03 accepted link,RemoteAddr  127.0.0.1:60426
+[INFO][server.go:48] 2023/04/13 13:30:10 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:30:10 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:30:10 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:30:10 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:30:10 connection closed: 127.0.0.1:60426
+[INFO][handler.go:122] 2023/04/13 13:30:10 handler shutting down...
+[INFO][server.go:48] 2023/04/13 13:30:10 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:30:10 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:30:10 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:30:11 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:30:11 data recover start
+[INFO][handler.go:41] 2023/04/13 13:30:16 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:30:16 data recover start
+[INFO][aof.go:161] 2023/04/13 13:30:18 data recover completed
+[INFO][server.go:38] 2023/04/13 13:30:20 server started in 127.0.0.1:6379
+[INFO][aof.go:161] 2023/04/13 13:30:23 data recover completed
+[INFO][server.go:38] 2023/04/13 13:30:24 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:30:27 accepted link,RemoteAddr  127.0.0.1:60461
+[INFO][server.go:66] 2023/04/13 13:31:17 accepted link,RemoteAddr  127.0.0.1:60466
+[DEBUG][comm.go:62] 2023/04/13 13:31:17 switch to 127.0.0.1:6380 , command is : 'exists key2'
+[DEBUG][comm.go:42] 2023/04/13 13:31:17 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:32:26 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:32:26 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:32:26 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:32:26 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:32:26 connection closed: 127.0.0.1:60466
+[INFO][handler.go:122] 2023/04/13 13:32:26 handler shutting down...
+[INFO][server.go:48] 2023/04/13 13:32:26 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:32:26 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:32:26 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:32:26 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:32:26 connection closed: 127.0.0.1:60461
+[INFO][handler.go:122] 2023/04/13 13:32:26 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:32:54 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:32:54 data recover start
+[INFO][aof.go:161] 2023/04/13 13:32:54 data recover completed
+[INFO][server.go:38] 2023/04/13 13:32:54 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:32:59 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:32:59 data recover start
+[INFO][aof.go:161] 2023/04/13 13:32:59 data recover completed
+[INFO][server.go:38] 2023/04/13 13:32:59 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:33:01 accepted link,RemoteAddr  127.0.0.1:60486
+[DEBUG][comm.go:62] 2023/04/13 13:33:05 switch to 127.0.0.1:6380 , command is : 'exists key2'
+[INFO][server.go:66] 2023/04/13 13:33:05 accepted link,RemoteAddr  127.0.0.1:60487
+[DEBUG][comm.go:42] 2023/04/13 13:33:05 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:34:09 shutting down...
+[INFO][server.go:48] 2023/04/13 13:34:09 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:34:09 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[ERROR][server.go:63] 2023/04/13 13:34:09 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:34:09 handler shutting down...
+[INFO][handler.go:122] 2023/04/13 13:34:09 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:34:09 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:34:09 connection closed: 127.0.0.1:60486
+[ERROR][parser.go:49] 2023/04/13 13:34:09 notice : why programme exited without err ?
+[INFO][handler.go:122] 2023/04/13 13:34:09 handler shutting down...
+[INFO][handler.go:78] 2023/04/13 13:34:09 connection closed: 127.0.0.1:60487
+[INFO][handler.go:122] 2023/04/13 13:34:09 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:34:10 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:34:10 data recover start
+[INFO][aof.go:161] 2023/04/13 13:34:11 data recover completed
+[INFO][server.go:38] 2023/04/13 13:34:11 server started in 127.0.0.1:6380
+[INFO][server.go:48] 2023/04/13 13:34:17 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:34:17 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:34:17 handler shutting down...
+[INFO][handler.go:41] 2023/04/13 13:34:19 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:34:19 data recover start
+[INFO][aof.go:161] 2023/04/13 13:34:19 data recover completed
+[INFO][server.go:38] 2023/04/13 13:34:19 server started in 127.0.0.1:6379
+[INFO][handler.go:41] 2023/04/13 13:34:22 staring through cluster
+[INFO][aof.go:118] 2023/04/13 13:34:22 data recover start
+[INFO][aof.go:161] 2023/04/13 13:34:22 data recover completed
+[INFO][server.go:38] 2023/04/13 13:34:22 server started in 127.0.0.1:6380
+[INFO][server.go:66] 2023/04/13 13:34:23 accepted link,RemoteAddr  127.0.0.1:60497
+[DEBUG][comm.go:62] 2023/04/13 13:34:27 switch to 127.0.0.1:6380 , command is : 'exists key2'
+[INFO][server.go:66] 2023/04/13 13:34:27 accepted link,RemoteAddr  127.0.0.1:60499
+[DEBUG][comm.go:42] 2023/04/13 13:34:27 no need relay,exec command locally
+[INFO][server.go:48] 2023/04/13 13:35:35 shutting down...
+[ERROR][server.go:63] 2023/04/13 13:35:35 accept error,msg: accept tcp 127.0.0.1:6379: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:35:35 handler shutting down...
+[INFO][server.go:48] 2023/04/13 13:35:35 shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:35:35 notice : why programme exited without err ?
+[ERROR][server.go:63] 2023/04/13 13:35:35 accept error,msg: accept tcp 127.0.0.1:6380: use of closed network connection
+[INFO][handler.go:122] 2023/04/13 13:35:35 handler shutting down...
+[ERROR][parser.go:49] 2023/04/13 13:35:35 notice : why programme exited without err ?
+[INFO][handler.go:78] 2023/04/13 13:35:35 connection closed: 127.0.0.1:60499
+[INFO][handler.go:78] 2023/04/13 13:35:35 connection closed: 127.0.0.1:60497
+[INFO][handler.go:122] 2023/04/13 13:35:35 handler shutting down...
+[INFO][handler.go:122] 2023/04/13 13:35:35 handler shutting down...

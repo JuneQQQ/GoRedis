@@ -1,0 +1,256 @@
+[INFO][server.go:36] 2023/04/11 10:06:53 start listen
+[INFO][server.go:46] 2023/04/11 10:06:55 shutting down...
+[INFO][echo.go:76] 2023/04/11 10:06:55 handler shutting down
+[ERROR][server.go:61] 2023/04/11 10:06:55 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][echo.go:76] 2023/04/11 10:06:55 handler shutting down
+[INFO][server.go:36] 2023/04/11 15:08:54 start listen
+[INFO][server.go:46] 2023/04/11 15:08:56 shutting down...
+[ERROR][server.go:61] 2023/04/11 15:08:56 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][echo.go:76] 2023/04/11 15:08:56 handler shutting down
+[INFO][server.go:36] 2023/04/11 15:08:58 start listen
+[INFO][server.go:64] 2023/04/11 15:09:10 accepted link,RemoteAddr  127.0.0.1:60541
+[INFO][server.go:46] 2023/04/11 15:15:36 shutting down...
+[ERROR][server.go:61] 2023/04/11 15:15:36 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][echo.go:76] 2023/04/11 15:15:36 handler shutting down
+[ERROR][echo.go:63] 2023/04/11 15:15:36 read error,msg: read tcp 127.0.0.1:6379->127.0.0.1:60541: use of closed network connection
+[INFO][echo.go:76] 2023/04/11 15:15:36 handler shutting down
+[INFO][server.go:36] 2023/04/11 16:11:58 start listen
+[INFO][server.go:46] 2023/04/11 16:12:00 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:12:00 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:12:00 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:12:01 start listen
+[INFO][server.go:64] 2023/04/11 16:12:44 accepted link,RemoteAddr  127.0.0.1:61390
+[INFO][server.go:46] 2023/04/11 16:14:21 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:14:21 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:14:21 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:14:21 connection closed: 127.0.0.1:61390
+[INFO][handler.go:99] 2023/04/11 16:14:21 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:14:21 start listen
+[INFO][server.go:64] 2023/04/11 16:14:26 accepted link,RemoteAddr  127.0.0.1:61412
+[ERROR][parser.go:41] 2023/04/11 16:14:48 goroutine 37 [running]:
+runtime/debug.Stack()
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/debug/stack.go:24 +0x64
+GoRedis/resp/parser.parse0.func1()
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:41 +0x3c
+panic({0x102d429e0, 0x14000216078})
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/panic.go:890 +0x26c
+GoRedis/resp/parser.readLine(0x14000228060, 0x14000055f50)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:151 +0x3f0
+GoRedis/resp/parser.parse0({0x10a41c028, 0x14000220000}, 0x1400021a060)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:51 +0xb0
+created by GoRedis/resp/parser.ParseStream
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:34 +0xe0
+
+[INFO][server.go:46] 2023/04/11 16:15:08 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:15:08 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:15:08 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:15:14 start listen
+[INFO][server.go:64] 2023/04/11 16:15:19 accepted link,RemoteAddr  127.0.0.1:61424
+[ERROR][handler.go:80] 2023/04/11 16:15:25 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:15:34 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:15:38 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:15:41 empty payload
+[INFO][server.go:46] 2023/04/11 16:16:07 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:16:07 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:16:07 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:16:07 connection closed: 127.0.0.1:61424
+[INFO][handler.go:99] 2023/04/11 16:16:07 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:16:07 start listen
+[INFO][server.go:64] 2023/04/11 16:16:09 accepted link,RemoteAddr  127.0.0.1:61437
+[ERROR][handler.go:80] 2023/04/11 16:16:18 empty payload
+[INFO][server.go:46] 2023/04/11 16:16:22 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:16:22 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:16:22 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:16:22 connection closed: 127.0.0.1:61437
+[INFO][handler.go:99] 2023/04/11 16:16:22 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:16:26 start listen
+[INFO][server.go:64] 2023/04/11 16:16:28 accepted link,RemoteAddr  127.0.0.1:61447
+[INFO][server.go:46] 2023/04/11 16:17:19 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:17:19 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:17:19 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:17:19 connection closed: 127.0.0.1:61447
+[INFO][handler.go:99] 2023/04/11 16:17:19 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:17:20 start listen
+[INFO][server.go:64] 2023/04/11 16:17:21 accepted link,RemoteAddr  127.0.0.1:61456
+[INFO][server.go:46] 2023/04/11 16:17:58 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:17:58 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:17:58 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:17:58 connection closed: 127.0.0.1:61456
+[INFO][handler.go:99] 2023/04/11 16:17:58 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:17:58 start listen
+[INFO][server.go:64] 2023/04/11 16:18:00 accepted link,RemoteAddr  127.0.0.1:61462
+[INFO][server.go:46] 2023/04/11 16:18:09 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:18:09 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:18:09 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:18:09 connection closed: 127.0.0.1:61462
+[INFO][handler.go:99] 2023/04/11 16:18:09 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:18:16 start listen
+[INFO][server.go:64] 2023/04/11 16:18:37 accepted link,RemoteAddr  127.0.0.1:61473
+[ERROR][parser.go:41] 2023/04/11 16:19:17 goroutine 36 [running]:
+runtime/debug.Stack()
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/debug/stack.go:24 +0x64
+GoRedis/resp/parser.parse0.func1()
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:41 +0x3c
+panic({0x102fb29e0, 0x140000bc060})
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/panic.go:890 +0x26c
+GoRedis/resp/parser.readLine(0x140000b2360, 0x14000059f50)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:151 +0x3f0
+GoRedis/resp/parser.parse0({0x12a648068, 0x14000112000}, 0x14000124000)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:51 +0xb0
+created by GoRedis/resp/parser.ParseStream
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:34 +0xe0
+
+[INFO][server.go:46] 2023/04/11 16:20:04 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:20:04 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:20:04 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:20:14 start listen
+[INFO][server.go:64] 2023/04/11 16:20:18 accepted link,RemoteAddr  127.0.0.1:61488
+[ERROR][parser.go:41] 2023/04/11 16:21:32 goroutine 21 [running]:
+runtime/debug.Stack()
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/debug/stack.go:24 +0x64
+GoRedis/resp/parser.parse0.func1()
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:41 +0x3c
+panic({0x1050029e0, 0x14000196048})
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/panic.go:890 +0x26c
+GoRedis/resp/parser.readLine(0x140001a6000, 0x140001a2f50)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:151 +0x3f0
+GoRedis/resp/parser.parse0({0x12c661008, 0x140000b0030}, 0x1400008e2a0)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:51 +0xb0
+created by GoRedis/resp/parser.ParseStream
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:34 +0xe0
+
+[INFO][server.go:46] 2023/04/11 16:21:41 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:21:41 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:21:41 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:21:42 start listen
+[INFO][server.go:64] 2023/04/11 16:21:48 accepted link,RemoteAddr  127.0.0.1:61500
+[ERROR][parser.go:41] 2023/04/11 16:23:12 goroutine 8 [running]:
+runtime/debug.Stack()
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/debug/stack.go:24 +0x64
+GoRedis/resp/parser.parse0.func1()
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:41 +0x3c
+panic({0x1051269e0, 0x140001a2048})
+	/Users/june/GoEnvironment/go1.19.1/src/runtime/panic.go:890 +0x26c
+GoRedis/resp/parser.readLine(0x140001b2000, 0x14000054f50)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:151 +0x3f0
+GoRedis/resp/parser.parse0({0x10c7c2878, 0x14000010040}, 0x1400007c2a0)
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:51 +0xb0
+created by GoRedis/resp/parser.ParseStream
+	/Users/june/GolandProjects/GoRedis/resp/parser/parser.go:34 +0xe0
+
+[INFO][server.go:46] 2023/04/11 16:23:55 shutting down...
+[INFO][handler.go:99] 2023/04/11 16:23:55 handler shutting down...
+[ERROR][server.go:61] 2023/04/11 16:23:55 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][server.go:36] 2023/04/11 16:23:56 start listen
+[INFO][server.go:64] 2023/04/11 16:24:07 accepted link,RemoteAddr  127.0.0.1:61512
+[INFO][server.go:46] 2023/04/11 16:31:29 shutting down...
+[INFO][handler.go:99] 2023/04/11 16:31:29 handler shutting down...
+[ERROR][server.go:61] 2023/04/11 16:31:29 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:66] 2023/04/11 16:31:29 connection closed: 127.0.0.1:61512
+[INFO][handler.go:99] 2023/04/11 16:31:29 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:31:29 start listen
+[INFO][server.go:64] 2023/04/11 16:31:33 accepted link,RemoteAddr  127.0.0.1:61670
+[ERROR][handler.go:80] 2023/04/11 16:34:10 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:34:32 empty payload
+[INFO][server.go:46] 2023/04/11 16:37:22 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:37:22 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:37:22 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:37:22 connection closed: 127.0.0.1:61670
+[INFO][handler.go:99] 2023/04/11 16:37:22 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:37:22 start listen
+[INFO][server.go:64] 2023/04/11 16:37:24 accepted link,RemoteAddr  127.0.0.1:61713
+[ERROR][handler.go:80] 2023/04/11 16:37:36 empty payload
+[INFO][server.go:46] 2023/04/11 16:37:45 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:37:45 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:37:45 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:37:45 connection closed: 127.0.0.1:61713
+[INFO][handler.go:99] 2023/04/11 16:37:45 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:38:32 start listen
+[INFO][server.go:64] 2023/04/11 16:38:37 accepted link,RemoteAddr  127.0.0.1:61735
+[ERROR][handler.go:80] 2023/04/11 16:39:35 empty payload
+[INFO][server.go:46] 2023/04/11 16:41:32 shutting down...
+[INFO][handler.go:99] 2023/04/11 16:41:32 handler shutting down...
+[ERROR][server.go:61] 2023/04/11 16:41:32 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:66] 2023/04/11 16:41:32 connection closed: 127.0.0.1:61735
+[INFO][handler.go:99] 2023/04/11 16:41:32 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:42:48 start listen
+[INFO][server.go:64] 2023/04/11 16:42:50 accepted link,RemoteAddr  127.0.0.1:61768
+[ERROR][handler.go:80] 2023/04/11 16:42:51 empty payload
+[INFO][server.go:46] 2023/04/11 16:42:54 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:42:54 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:42:54 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:42:54 connection closed: 127.0.0.1:61768
+[INFO][handler.go:99] 2023/04/11 16:42:54 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:42:54 start listen
+[INFO][server.go:64] 2023/04/11 16:42:58 accepted link,RemoteAddr  127.0.0.1:61777
+[ERROR][handler.go:80] 2023/04/11 16:45:47 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:46:21 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:46:21 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:46:47 empty payload
+[INFO][server.go:46] 2023/04/11 16:48:43 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:48:43 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:48:43 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:48:43 connection closed: 127.0.0.1:61777
+[INFO][handler.go:99] 2023/04/11 16:48:43 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:50:36 start listen
+[INFO][server.go:64] 2023/04/11 16:50:38 accepted link,RemoteAddr  127.0.0.1:61910
+[INFO][server.go:46] 2023/04/11 16:55:52 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:55:52 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:55:52 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:55:52 connection closed: 127.0.0.1:61910
+[INFO][handler.go:99] 2023/04/11 16:55:52 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:55:52 start listen
+[INFO][server.go:64] 2023/04/11 16:55:56 accepted link,RemoteAddr  127.0.0.1:62201
+[ERROR][handler.go:80] 2023/04/11 16:55:58 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:56:16 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:08 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:11 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:15 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:18 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:19 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:32 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:33 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:44 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:57:54 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:58:01 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:58:02 empty payload
+[ERROR][handler.go:80] 2023/04/11 16:58:08 empty payload
+[INFO][server.go:46] 2023/04/11 16:58:47 shutting down...
+[ERROR][server.go:61] 2023/04/11 16:58:47 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 16:58:47 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 16:58:47 connection closed: 127.0.0.1:62201
+[INFO][handler.go:99] 2023/04/11 16:58:47 handler shutting down...
+[INFO][server.go:36] 2023/04/11 16:58:48 start listen
+[INFO][server.go:64] 2023/04/11 16:58:57 accepted link,RemoteAddr  127.0.0.1:62251
+[ERROR][handler.go:80] 2023/04/11 17:05:21 empty payload
+[INFO][server.go:46] 2023/04/11 17:05:31 shutting down...
+[ERROR][server.go:61] 2023/04/11 17:05:31 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 17:05:31 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 17:05:31 connection closed: 127.0.0.1:62251
+[INFO][handler.go:99] 2023/04/11 17:05:31 handler shutting down...
+[INFO][server.go:36] 2023/04/11 17:05:31 start listen
+[INFO][server.go:64] 2023/04/11 17:05:49 accepted link,RemoteAddr  127.0.0.1:62359
+[ERROR][handler.go:80] 2023/04/11 17:08:39 empty payload
+[ERROR][handler.go:80] 2023/04/11 17:08:45 empty payload
+[ERROR][handler.go:80] 2023/04/11 17:09:01 empty payload
+[INFO][server.go:46] 2023/04/11 17:09:03 shutting down...
+[ERROR][server.go:61] 2023/04/11 17:09:03 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:99] 2023/04/11 17:09:03 handler shutting down...
+[INFO][handler.go:66] 2023/04/11 17:09:03 connection closed: 127.0.0.1:62359
+[INFO][handler.go:99] 2023/04/11 17:09:03 handler shutting down...
+[INFO][server.go:36] 2023/04/11 17:09:04 start listen
+[INFO][server.go:64] 2023/04/11 17:09:06 accepted link,RemoteAddr  127.0.0.1:62412
+[ERROR][handler.go:81] 2023/04/11 17:10:56 empty payload
+[INFO][server.go:46] 2023/04/11 17:10:59 shutting down...
+[ERROR][server.go:61] 2023/04/11 17:10:59 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:100] 2023/04/11 17:10:59 handler shutting down...
+[INFO][handler.go:67] 2023/04/11 17:10:59 connection closed: 127.0.0.1:62412
+[INFO][handler.go:100] 2023/04/11 17:10:59 handler shutting down...
+[INFO][server.go:36] 2023/04/11 17:10:59 start listen
+[INFO][server.go:64] 2023/04/11 17:11:01 accepted link,RemoteAddr  127.0.0.1:62435
+[ERROR][handler.go:81] 2023/04/11 17:11:02 empty payload
+[INFO][server.go:46] 2023/04/11 17:11:13 shutting down...
+[ERROR][server.go:61] 2023/04/11 17:11:13 accept error,msg: accept tcp [::]:6379: use of closed network connection
+[INFO][handler.go:100] 2023/04/11 17:11:13 handler shutting down...
+[INFO][handler.go:67] 2023/04/11 17:11:13 connection closed: 127.0.0.1:62435
+[INFO][handler.go:100] 2023/04/11 17:11:13 handler shutting down...
